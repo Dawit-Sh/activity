@@ -1,0 +1,35 @@
+{
+  "January": [
+    {
+      "title": "Book Title 1",
+      "rating": 4
+    },
+    {
+      "title": "Book Title 2",
+      "rating": 5
+    },
+    {
+      "title": "your mom",
+      "rating": 5
+    }
+  ],
+  "February": [
+    {
+      "title": "Book Title 3",
+      "rating": 3
+    }
+  ],
+  "March": [],
+  "April": [
+    {
+      "title": "Book Title 4",
+      "rating": 5
+    }
+  ],
+  "August": [
+    {
+      "title": "your mom",
+      "rating": 5
+    }
+  ]
+}
