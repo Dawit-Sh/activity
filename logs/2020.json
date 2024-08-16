@@ -1,0 +1,117 @@
+{
+  "January": [
+    {
+      "title": "The Time Machine",
+      "rating": 4
+    },
+    {
+      "title": "Dune",
+      "rating": 5
+    },
+    {
+      "title": "Brave New World",
+      "rating": 3
+    }
+  ],
+  "February": [
+    {
+      "title": "The Great Gatsby",
+      "rating": 4
+    }
+  ],
+  "March": [
+    {
+      "title": "1984",
+      "rating": 5
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "rating": 4
+    },
+    {
+      "title": "Pride and Prejudice",
+      "rating": 4
+    }
+  ],
+  "April": [
+    {
+      "title": "The Catcher in the Rye",
+      "rating": 3
+    },
+    {
+      "title": "The Hobbit",
+      "rating": 5
+    }
+  ],
+  "May": [],
+  "June": [
+    {
+      "title": "The Road",
+      "rating": 4
+    },
+    {
+      "title": "Sapiens: A Brief History of Humankind",
+      "rating": 5
+    }
+  ],
+  "July": [
+    {
+      "title": "Fahrenheit 451",
+      "rating": 4
+    },
+    {
+      "title": "Neuromancer",
+      "rating": 5
+    }
+  ],
+  "August": [
+    {
+      "title": "The Alchemist",
+      "rating": 4
+    },
+    {
+      "title": "The Art of War",
+      "rating": 5
+    }
+  ],
+  "September": [
+    {
+      "title": "The Catcher in the Rye",
+      "rating": 3
+    },
+    {
+      "title": "The Picture of Dorian Gray",
+      "rating": 4
+    }
+  ],
+  "October": [
+    {
+      "title": "Dracula",
+      "rating": 5
+    },
+    {
+      "title": "The Shining",
+      "rating": 4
+    }
+  ],
+  "November": [
+    {
+      "title": "The Great Gatsby",
+      "rating": 4
+    },
+    {
+      "title": "Crime and Punishment",
+      "rating": 5
+    }
+  ],
+  "December": [
+    {
+      "title": "Moby Dick",
+      "rating": 4
+    },
+    {
+      "title": "The Catcher in the Rye",
+      "rating": 3
+    }
+  ]
+}
