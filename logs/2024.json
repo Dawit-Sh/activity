@@ -1,36 +1,13 @@
 {
-  "January": [
-    {
-      "title": "Book Title 1",
-      "rating": 4
-    },
-    {
-      "title": "Book Title 2",
-      "rating": 5
-    },
-    {
-      "title": "your mom",
-      "rating": 5
-    }
-  ],
-  "February": [
-    {
-      "title": "Book Title 3",
-      "rating": 3
-    }
-  ],
+  "January": [],
+  "February": [],
   "March": [],
   "May": [],
-  "April": [
-    {
-      "title": "Book Title 4",
-      "rating": 5
-    }
-  ],
+  "April": [],
   "August": [
     {
-      "title": "your mom",
-      "rating": 5
+      "title": "Icefields",
+      "rating": 4
     }
   ]
 }
